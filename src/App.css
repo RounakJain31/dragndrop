@@ -29,3 +29,7 @@ h2 {
   opacity: 0.5;
   border-style: dashed;
 }
+
+.description {
+  margin-bottom: 20px;
+}
