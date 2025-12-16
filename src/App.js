@@ -29,7 +29,7 @@ export default function App() {
   return (
     <div className="container">
       <h2>Drag & Drop Digits</h2>
-      <p>Drag the boxes to render the digits 0-9.</p>
+      <p>Drag the boxes to reorder the digits 0-9.</p>
 
       <div className="list">
         {items.map((item, index) => (
